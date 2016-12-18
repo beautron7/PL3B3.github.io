@@ -7,7 +7,7 @@ var people = [];
 var types = [];
 var bodo;
 function preload() {
-  bodo = loadJSON('/Data/recidivism.json');
+  bodo = loadJSON('projects/1-DVIS/Data/recidivism.json');
 }
 function setup() {
   init();
