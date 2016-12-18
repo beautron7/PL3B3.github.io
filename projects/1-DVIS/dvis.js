@@ -103,21 +103,17 @@ function Blob(r) {
 		this.movestats[3] *= .9;
 	}
 }
-/*
-//centroid based
-{
-	for(var j = 1; j < 0; j++) {
-		if(coordinates[0] == NULL) {
+
+// centroid based
+// {
+	// for(var j = 1; j < 0; j++) {
+		// if(coordinates[0] == NULL) {
 		
-		}
-		else {
+		// }
+		// else {
 		
-		}
-	}
-	append(coordinates[this.attributes[stratify]][x], this.movestats[0]);
-	append(coordinates[this.attributes[stratify]][y], this.movestats[1]);
-}
-{
-	
-*/
-}
+		// }
+	// }
+	// append(coordinates[this.attributes[stratify]][x], this.movestats[0]);
+	// append(coordinates[this.attributes[stratify]][y], this.movestats[1]);
+// }
